@@ -21,8 +21,9 @@ We developed an android app using flutter. The prototype is developed and we are
 ![image](https://github.com/adithya-vedhamani/ATops/assets/73640313/417933f0-0bdc-433b-b5bd-2b4afe59d532)
 
 ## Demo Video
-
-
-
 https://github.com/adithya-vedhamani/ATops/assets/73640313/3d2d4574-0cdc-493b-a152-13f80cd6dd9e
+
+## Other Contributor
+
+Tejaswini Uma Sudhir
 
