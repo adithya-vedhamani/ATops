@@ -10,7 +10,7 @@ Improving lives of small & marginal scale farmers in India through android
 
 ## Our Solution
 Diversifying farm income through agro-tourism
-We developed an android app using flutter. The prototype is developed and we are plaaning to add more functionalities and making it simpler for a small scale farmer to use conveniently.
+We developed an android app using flutter. The prototype is developed and we are planning to add more functionalities and making it simpler for a small scale farmer to use conveniently.
 
 ## App Screenshots
 
