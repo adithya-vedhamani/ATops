@@ -13,7 +13,6 @@ class _BannerCardState extends State<BannerCard> {
   Widget build(BuildContext context) {
     return Container(
       width: 315,
-      height: 120, // Adjusted height to reduce size
       decoration: BoxDecoration(
         image: const DecorationImage(
           image: AssetImage("assets/images/banner.png"),
